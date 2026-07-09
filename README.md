@@ -1,11 +1,11 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Pranav!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Cloud%20Infrastructure%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20Pranav!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Cloud%20Engineer%20%7C%20AI%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=62" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;AI+%26+Full-Stack+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%92;Building+Scalable+Architectures+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer+%E2%98%81%EF%B8%8F;AI+Engineer+%F0%9F%A4%96;Cybersecurity+Enthusiast+%F0%9F%94%92;Building+Scalable+Architectures+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,11 +25,14 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building **Cloud Infrastructure (OCI/Azure)** and playing around with **AI applications**.
-- 🌱 Always learning! Right now I'm diving into **Kubernetes (OKE), LLMs, and Cybersecurity**.
-- 🤝 Open to collaborating on cool **Cloud & DevOps** projects.
-- 💬 Ask me about **Python, Terraform, Docker, React, and Agile**.
-- ⚡ Fun fact: **I love writing code that actually works in production, not just on my machine!**
+I design and deploy secure cloud architectures while integrating modern AI capabilities. My focus isn't just on spinning up resources; it's about building resilient, zero-trust environments across OCI and Azure, automating workflows with Terraform, and ensuring CI/CD pipelines are genuinely airtight.
+
+Lately, I’ve been heavily invested in **Prompt Engineering and LLM orchestration**—specifically figuring out how to safely expose generative AI (like Claude or Grok) to sensitive databases without compromising security.
+
+**Core Focus Areas:**
+- **Infrastructure & Automation:** Terraform, OCI/Azure hybrid mapping, Kubernetes (OKE)
+- **AI & Security:** Securing LLM-to-SQL pipelines, strict query validation, zero-trust principles
+- **DevOps:** Immutable container tagging, GitHub Actions workflows, Docker
 
 ---
 

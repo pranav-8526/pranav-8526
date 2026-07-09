@@ -70,7 +70,7 @@ Lately, I’ve been heavily invested in **Prompt Engineering and LLM orchestrati
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pranav-8526/pranav-8526/main/github-metrics.svg" alt="GitHub Infographics Dashboard" width="100%" />
+  <img src="https://metrics.lecoq.io/pranav-8526" alt="GitHub Infographics Dashboard" width="100%" />
 </div>
 
 <br/>

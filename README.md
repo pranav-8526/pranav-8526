@@ -25,11 +25,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Multi-Tier Cloud Infrastructure (OCI/Azure) & AI applications**
-- 🌱 I’m currently diving deeper into **Kubernetes (OKE), LLMs, and Advanced Cybersecurity**
-- 🤝 I’m looking to collaborate on **Open Source Cloud & DevOps projects**
-- 💬 Ask me about **Python, Terraform, Docker, React, and Agile Methodologies**
-- ⚡ Fun fact: **I love bridging the gap between robust backend infrastructure and seamless user experiences!**
+- 🔭 I’m currently building **Cloud Infrastructure (OCI/Azure)** and playing around with **AI applications**.
+- 🌱 Always learning! Right now I'm diving into **Kubernetes (OKE), LLMs, and Cybersecurity**.
+- 🤝 Open to collaborating on cool **Cloud & DevOps** projects.
+- 💬 Ask me about **Python, Terraform, Docker, React, and Agile**.
+- ⚡ Fun fact: **I love writing code that actually works in production, not just on my machine!**
 
 ---
 
@@ -57,10 +57,10 @@
 
 | 🌟 Project | 📝 Description |
 |---|---|
-| **[☁️ Multi-Tier Cloud Infrastructure](https://github.com/pranav-8526)** | Enterprise-grade cloud environment mapped across Azure/OCI with Terraform, featuring remote state locking & automated tagging. |
-| **[🤖 AI-Powered SQL Assistant](https://github.com/pranav-8526)** | Secure full-stack app translating natural language to SQL using LLMs (Anthropic Claude/Grok) with strict query validation. |
-| **[⚙️ Containerized CI/CD Pipeline](https://github.com/pranav-8526)** | Automated deployment workflow via GitHub Actions, Docker, and Agile methods with immutable image tagging. |
-| **[🏋️ Fitness Recommendation Platform](https://github.com/pranav-8526)** | Interactive full-stack React and Node.js application for real-time fitness tracking and personalized insights. |
+| **[☁️ Multi-Tier Cloud Infrastructure](https://github.com/pranav-8526)** | A fully automated Azure/OCI infrastructure setup using Terraform. Handles state locking and tagging so I don't have to. |
+| **[🤖 AI-Powered SQL Assistant](https://github.com/pranav-8526)** | A web app that lets you talk to your database in plain English. Uses Claude/Grok to generate read-only SQL safely. |
+| **[⚙️ Containerized CI/CD Pipeline](https://github.com/pranav-8526)** | My go-to CI/CD setup for shipping Node.js apps fast and safely using Docker and GitHub Actions. |
+| **[🏋️ Fitness Recommendation Platform](https://github.com/pranav-8526)** | A fun side project: a full-stack React/Node app for tracking workouts and getting fitness recommendations. |
 
 ---
 

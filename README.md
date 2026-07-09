@@ -69,17 +69,8 @@ Lately, I’ve been heavily invested in **Prompt Engineering and LLM orchestrati
 
 ### 📊 GitHub Analytics
 
-*(Note: Stats may appear empty if you have mostly private commits. Count includes private repos!)*
-
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=pranav-8526&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-8526&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pranav-8526&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <img src="https://raw.githubusercontent.com/pranav-8526/pranav-8526/main/github-metrics.svg" alt="GitHub Infographics Dashboard" width="100%" />
 </div>
 
 <br/>

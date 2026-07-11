@@ -60,10 +60,9 @@ Lately, I’ve been heavily invested in **Prompt Engineering and LLM orchestrati
 
 | 🌟 Project | 📝 Description |
 |---|---|
-| **[☁️ Multi-Tier Cloud Infrastructure](https://github.com/pranav-8526)** | A fully automated Azure/OCI infrastructure setup using Terraform. Handles state locking and tagging so I don't have to. |
-| **[🤖 AI-Powered SQL Assistant](https://github.com/pranav-8526)** | A web app that lets you talk to your database in plain English. Uses Claude/Grok to generate read-only SQL safely. |
-| **[⚙️ Containerized CI/CD Pipeline](https://github.com/pranav-8526)** | My go-to CI/CD setup for shipping Node.js apps fast and safely using Docker and GitHub Actions. |
-| **[🏋️ Fitness Recommendation Platform](https://github.com/pranav-8526)** | A fun side project: a full-stack React/Node app for tracking workouts and getting fitness recommendations. |
+| **[🛡️ Runtime Integrity Guard (RIG)](https://github.com/pranav-8526/runtime-integrity-guard)** | A multi-layered AI security proxy that intercepts MCP tool traffic to detect and block zero-day prompt injections and rug-pull attacks in real-time. |
+| **[☁️ OCI-Mapped Azure Infrastructure](https://github.com/pranav-8526/oci-mapped-azure)** | An enterprise-grade cloud portfolio project demonstrating hybrid Azure/OCI deployment, remote state locking, automated tagging, and a live Node.js dashboard. |
+| **[🎓 EduCRM Student Management](https://github.com/pranav-8526/EduCRM)** | A professional College/Institute CRM built with Python Flask, MySQL, and Bootstrap. Features fee management, attendance tracking, and automated reporting. |
 
 ---
 

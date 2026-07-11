@@ -56,13 +56,13 @@ Lately, I’ve been heavily invested in **Prompt Engineering and LLM orchestrati
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-| 🌟 Project | 📝 Description |
+| Project | Description |
 |---|---|
-| **[🛡️ Runtime Integrity Guard (RIG)](https://github.com/pranav-8526/runtime-integrity-guard)** | A multi-layered AI security proxy that intercepts MCP tool traffic to detect and block zero-day prompt injections and rug-pull attacks in real-time. |
-| **[☁️ OCI-Mapped Azure Infrastructure](https://github.com/pranav-8526/oci-mapped-azure)** | An enterprise-grade cloud portfolio project demonstrating hybrid Azure/OCI deployment, remote state locking, automated tagging, and a live Node.js dashboard. |
-| **[🎓 EduCRM Student Management](https://github.com/pranav-8526/EduCRM)** | A professional College/Institute CRM built with Python Flask, MySQL, and Bootstrap. Features fee management, attendance tracking, and automated reporting. |
+| **[Runtime Integrity Guard (RIG)](https://github.com/pranav-8526/runtime-integrity-guard)** | A multi-layered AI security proxy that intercepts MCP tool traffic to detect and block zero-day prompt injections and rug-pull attacks in real-time. |
+| **[OCI-Mapped Azure Infrastructure](https://github.com/pranav-8526/OCI-MAPPED-AZURE)** | An enterprise-grade cloud portfolio project demonstrating hybrid Azure/OCI deployment, remote state locking, automated tagging, and a live Node.js dashboard. |
+| **[Containerized CI/CD Pipeline](https://github.com/pranav-8526/oci-cicd-project)** | My go-to CI/CD setup for shipping Node.js apps fast and safely using Docker and GitHub Actions. |
 
 ---
 

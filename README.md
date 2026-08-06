@@ -13,6 +13,9 @@
 
 <!-- Social Badges -->
 <div align="center">
+  <a href="https://personal-portfolio-green-five.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="http://www.linkedin.com/in/pranavr" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
